@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Roc Grotesk Regular";
+  src: URL("./Kostic - Roc Grotesk Regular.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Roc Grotesk Medium";
+  src: URL("./Kostic - Roc Grotesk Medium.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Roc Grotesk Bold";
+  src: URL("./Kostic - Roc Grotesk Bold.otf") format("opentype");
+}
